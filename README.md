@@ -18,4 +18,6 @@ This code lets us know that there are 461 9th graders at Thomas High which shoul
 above shows the percent of students who passed math and reading w the 9th graders at Thomas High excluded, and below shows the results when the 9th graders are accounted for in the data.
 <img width="1018" alt="Screen Shot 2021-07-19 at 10 05 24 AM" src="https://user-images.githubusercontent.com/86446641/126172895-7611ebe1-901d-45f7-9ce8-72ee2a46fcb3.png">
 
+You can see that when the 461 9th graders are accounted for we have a slightly higher passing percentage for both subjects in the district.
+
 
