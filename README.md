@@ -28,8 +28,9 @@ These two above images show the difference in passing percentages specifically a
 Further comparitive data (w/o 9th graders at Thomas High): 
 - Math and Reading Scores by Grade:
 
-<img width="311" alt="Screen Shot 2021-07-23 at 7 48 42 PM" src="https://user-images.githubusercontent.com/86446641/126850813-36621d36-88ef-4879-ab31-e35734df9585.png">
-<img width="307" alt="Screen Shot 2021-07-23 at 7 49 07 PM" src="https://user-images.githubusercontent.com/86446641/126850825-216b4fd6-d921-44ec-992a-86a71b95fe73.png">
+<img width="311" alt="Screen Shot 2021-07-23 at 7 48 42 PM" src="https://user-images.githubusercontent.com/86446641/126850813-36621d36-88ef-4879-ab31-e35734df9585.png"> <img width="307" alt="Screen Shot 2021-07-23 at 7 49 07 PM" src="https://user-images.githubusercontent.com/86446641/126850825-216b4fd6-d921-44ec-992a-86a71b95fe73.png">
+
+All figures remain the same expect for the NaN replacing 9th graders at Thomas
 
 - Scores by School Spending:
 
