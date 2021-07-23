@@ -1,3 +1,4 @@
+<img width="727" alt="Screen Shot 2021-07-23 at 7 53 29 PM" src="https://user-images.githubusercontent.com/86446641/126850984-9835aeab-e269-4c69-8c8a-b41ccc3b6384.png">
 # School District Analysis 
 ## Overview
 The purpose of this analysis was to review school performance based on a variety of factors. These factors being: 
