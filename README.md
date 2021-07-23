@@ -14,11 +14,10 @@ Shown below are certain comparitive results of the analysis in PyCitySchools_Cha
 the line of code used to calculate the total number of 9th graders at Thomas High School is: len(student_data_df.loc[(student_data_df["school_name"] == 'Thomas High School') & (student_data_df["grade"] == '9th')])  
 This code lets us know that there are 461 9th graders at Thomas High which should not be accounted for in the Challenge Analysis
 
-<img width="1022" alt="Screen Shot 2021-07-19 at 10 04 04 AM" src="https://user-images.githubusercontent.com/86446641/126172679-c47337ba-eae4-45bd-835b-02ebb006b775.png">
-above shows the percent of students who passed math and reading w the 9th graders at Thomas High excluded, and below shows the results when the 9th graders are accounted for in the data.
-<img width="1018" alt="Screen Shot 2021-07-19 at 10 05 24 AM" src="https://user-images.githubusercontent.com/86446641/126172895-7611ebe1-901d-45f7-9ce8-72ee2a46fcb3.png">
+<img width="778" alt="Screen Shot 2021-07-23 at 7 42 52 PM" src="https://user-images.githubusercontent.com/86446641/126850587-a5200520-a011-45a1-8858-23a26a933c28.png">
 
-You can see that when the 461 9th graders are accounted for we have a slightly higher passing percentage for both subjects in the district.
+
+You can see that when the 461 9th graders are accounted for we have a slightly lower passing percentage for both subjects in the district.
 
 Further; if we focus specifically on Thomas High School, the passing percentages are much more drastic. 
 <img width="367" alt="Screen Shot 2021-07-19 at 10 20 08 AM" src="https://user-images.githubusercontent.com/86446641/126175172-4c1ef0c4-fe20-4da2-96a8-6726adbf1eee.png">
