@@ -25,4 +25,23 @@ Further; if we focus specifically on Thomas High School, the passing percentages
 
 These two above images show the difference in passing percentages specifically at Thomas High with 9th grade scores first excluded and then included. You can see the differences reflected in % and in the total students count. The results are significant. 
 
+Further comparitive data (w/o 9th graders at Thomas High): 
+- Math and Reading Scores by Grade:
+
+<img width="311" alt="Screen Shot 2021-07-23 at 7 48 42 PM" src="https://user-images.githubusercontent.com/86446641/126850813-36621d36-88ef-4879-ab31-e35734df9585.png">
+<img width="307" alt="Screen Shot 2021-07-23 at 7 49 07 PM" src="https://user-images.githubusercontent.com/86446641/126850825-216b4fd6-d921-44ec-992a-86a71b95fe73.png">
+
+- Scores by School Spending:
+
+<img width="854" alt="Screen Shot 2021-07-23 at 7 49 53 PM" src="https://user-images.githubusercontent.com/86446641/126850855-62bbc537-7c01-42c9-acc7-a87356274f46.png">
+
+- Scores by School Size:
+
+<img width="777" alt="Screen Shot 2021-07-23 at 7 50 58 PM" src="https://user-images.githubusercontent.com/86446641/126850890-f077437e-9858-48a4-9187-59d040d0d262.png">
+
+- Scores by School Type:
+
+<img width="740" alt="Screen Shot 2021-07-23 at 7 51 19 PM" src="https://user-images.githubusercontent.com/86446641/126850902-ea949f2f-5085-44bf-b5ac-97eafe1653d2.png">
+
+
 
