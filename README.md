@@ -37,19 +37,22 @@ All figures remain the same expect for the NaN replacing 9th graders at Thomas
 
 <img width="854" alt="Screen Shot 2021-07-23 at 7 49 53 PM" src="https://user-images.githubusercontent.com/86446641/126850855-62bbc537-7c01-42c9-acc7-a87356274f46.png"> <img width="844" alt="Screen Shot 2021-07-23 at 7 55 31 PM" src="https://user-images.githubusercontent.com/86446641/126851076-9fc342fb-e68d-427a-8036-c4abcd573fc9.png">
 
-9th graders excluded on the left, included on the right
+9th graders excluded in the above image, included in the image below
 
 - Scores by School Size:
 
 <img width="777" alt="Screen Shot 2021-07-23 at 7 50 58 PM" src="https://user-images.githubusercontent.com/86446641/126850890-f077437e-9858-48a4-9187-59d040d0d262.png"> <img width="765" alt="Screen Shot 2021-07-23 at 7 55 01 PM" src="https://user-images.githubusercontent.com/86446641/126851050-3837fab9-d978-4cec-9abf-4815b1940036.png">
 
-9th graders excluded on the left, included on the right
+9th graders excluded in the above image, included in the image below
 
 - Scores by School Type:
 
 <img width="740" alt="Screen Shot 2021-07-23 at 7 51 19 PM" src="https://user-images.githubusercontent.com/86446641/126850902-ea949f2f-5085-44bf-b5ac-97eafe1653d2.png"> <img width="727" alt="Screen Shot 2021-07-23 at 7 53 29 PM" src="https://user-images.githubusercontent.com/86446641/126850984-9835aeab-e269-4c69-8c8a-b41ccc3b6384.png"> 
 
-9th graders excluded on the left, included on the right
+9th graders excluded in the above image, included in the image below
 
+## Summary
 
+To summarize, some changes with reading and math scores replaced w NaN at Thomas High School:
+- 
 
