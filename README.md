@@ -58,5 +58,6 @@ To summarize, some changes with reading and math scores replaced w NaN at Thomas
 - yet, because this is just one school- it does not significantly effect the data for the whole district
 
 Further: 
--
+- scores by school spending change, but with the bins we have and the rounding tolerance we use the change is so insignificant that it is not present in the chart
+- 
 
