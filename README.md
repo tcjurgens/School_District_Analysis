@@ -59,5 +59,5 @@ To summarize, some changes with reading and math scores replaced w NaN at Thomas
 
 Further: 
 - scores by school spending change, but with the bins we have and the rounding tolerance we use the change is so insignificant that it is not present in the chart
-- in fact, all these changes are very small- if at all preset. The only ones visible in the data are the percent overall passing math by school size decreasing by 1%, and the 
+- in fact, all these changes are very small- if at all preset. The only ones visible in the data are the percent overall passing math by school size medium decreasing by 1%, and the average math score by school type district decreasing by 0.1%
 
