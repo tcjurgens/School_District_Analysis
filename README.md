@@ -54,5 +54,9 @@ All figures remain the same expect for the NaN replacing 9th graders at Thomas
 ## Summary
 
 To summarize, some changes with reading and math scores replaced w NaN at Thomas High School:
-- 
+- Thomas High has a much lower overall passing percentage in both subjects whe 9th graders are excluded
+- yet, because this is just one school- it does not significantly effect the data for the whole district
+
+Further: 
+-
 
